@@ -21,22 +21,22 @@ Here are some of the projects I’ve completed so far:
 
 - 🍽 [Omnifood](https://omnifood-temi.netlify.app)  
   A modern, responsive food delivery site with CSS animations
-
+[View code on GitHub](https://github.com/TemitopeAlao/omnifood-)
 - 🌿 [Natours](https://natours-temi.netlify.app)  
    Landing page for a travel agency. Full of clean transitions and animations.
-
+[View code on GitHub](https://github.com/TemitopeAlao/Natours)
 - 🏨 [Trillo](https://trillo-temi.netlify.app)  
   A hotel booking UI designed with CSS Grid  (UI-focused project)
 
 - 🏠 [Nexter](https://nexter-temi.netlify.app)  
   Real estate homepage layout using advanced CSS Grid techniques
-
+[View code on GitHub](https://github.com/TemitopeAlao/Nexter)
 - 🍏 [Homepage replica inspired by Apple.com](https://non-responsive-temiappl3clone-v1.netlify.app/)  
   A non-responsive replica of a modern landing page created purely for educational purposes to practice layout building with HTML and CSS.
 
 - 👟 [Nike-style Homepage](https://non-responsive-nike3clone-v1.netlify.app/)
   Another layout clone, done to study typography, spacing, and visual flow.
-
+[View code on GitHub](https://github.com/TemitopeAlao/NikeUI)
 >Some of these projects were built by following practical tutorials and applying custom changes.
 They helped me strengthen key frontend skills like layout design, API integration, and writing modular code.
 ---
