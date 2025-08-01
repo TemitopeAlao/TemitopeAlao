@@ -24,6 +24,7 @@ Here are some of the projects I’ve completed so far:
 [View code on GitHub](https://github.com/TemitopeAlao/omnifood-)
 - 🌿 [Natours](https://natours-temi.netlify.app)  
    Landing page for a travel agency. Full of clean transitions and animations.
+  
 [View code on GitHub](https://github.com/TemitopeAlao/Natours)
 - 🏨 [Trillo](https://trillo-temi.netlify.app)  
   A hotel booking UI designed with CSS Grid  (UI-focused project)
