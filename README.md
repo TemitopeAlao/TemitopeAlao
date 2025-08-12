@@ -58,7 +58,7 @@ They helped me strengthen key frontend skills like layout design, API integratio
 ## 📅 What’s Next?
 
 - Starting my 30 Days of JavaScript challenge to solidify my understanding of JS fundamentals.  
-- Learning React by building real-world projects  
+- Learning React by building real-world projects  [View code on GitHub](https://github.com/TemitopeAlao/learning-react)
 - Exploring 3D visuals and animated layouts
 - Documenting everything I learn, especially the bugs and breakthroughs
 
